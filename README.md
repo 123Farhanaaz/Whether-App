@@ -32,9 +32,7 @@ This app allows users to search for any city and get real-time weather updates i
 
 ## 📸 Project Preview
 
-(Add screenshot here)
+<img width="699" height="732" alt="image" src="https://github.com/user-attachments/assets/949e3da6-b0aa-4035-88ea-b528da234949" />
 
-Example:
 
-```markdown
-![Weather App Screenshot](screenshot.png)
+
